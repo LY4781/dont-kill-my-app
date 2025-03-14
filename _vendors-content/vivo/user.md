@@ -98,67 +98,67 @@ Locking the app in the Recent Apps screen can look slightly different on each ve
 3. Find your app in the list and enable the high battery consumption.
 
 <div class="img-block">
-  <figure>
-    <img src="/assets/img/vivo/vivo_4.jpg">
-    <figcaption>1. Open Battery section.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_4.JPG">
+    <figcaption>1.打开电池部分。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_5.jpg">
-    <figcaption>2. Go to High background power consuption.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_5.jpg">
+    <figcaption>2.进入高背景功耗。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_6.jpg">
-    <figcaption>3. Enable for your app.</figcaption>
-  </figure>
-
-</div>
-
-Another layout for the similar feature, this time unde the name *Background power consumption management*.
-
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_1.jpg">
-    <figcaption>1. Open Battery section.</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_2.jpg">
-    <figcaption>2. Open Background power consumption management..</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_3.jpg">
-    <figcaption>3. Enable for your app.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_6.jpg">
+    <figcaption>3.为您的应用开启。</figcaption>
+  </数字>
 
 </div>
 
+类似功能的另一个布局，这次在名称下*后台耗电管理*.
 
-## Battery optimization
+<div班级="img-block">
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_1.jpg">
+    <figcaption>1.打开电池部分。</figcaption>
+  </数字>
 
-In the Battery section for each app, you can put the app into *not-optimized* pile of apps, which will prevent the app from being closed by the optimization processes.
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_2.jpg">
+    <figcaption>2.开放后台功耗管理。</figcaption>
+  </数字>
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_1.jpg">
-    <figcaption>1. Hold down the app icon, and click App Info.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_3.jpg">
+    <figcaption>3.为您的应用开启。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_2.jpg">
-    <figcaption>2. In App Info menu, scroll to Battery and click on the percent use.</figcaption>
-  </figure>
+</div>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_3.jpg">
-    <figcaption>3. From the Battery Usage, click on Battery Optimization.</figcaption>
-  </figure>
 
-   <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_4.jpg">
-    <figcaption>4. Make sure to set the app to "Not optimized".</figcaption>
-  </figure>
+##电池优化
+
+在每个应用程序的电池部分，您可以将应用程序*未优化*应用堆，这将防止应用被优化过程关闭。
+
+<div班级="img-block">
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_1.jpg">
+    <figcaption>1、长按应用图标，点击应用信息。</figcaption>
+  </数字>
+
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_2.jpg">
+    <figcaption>2.在应用程序信息菜单中，滚动至电池并点击使用百分比。</figcaption>
+  </数字>
+
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_3.jpg">
+    <figcaption>3.在“Battery Usage(电池使用情况)”中，单击“Battery Optimization(电池优化)”。</figcaption>
+  </数字>
+
+   <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_4.jpg">
+    <figcaption>4.确保应用设置为“未优化”。</figcaption>
+  </数字>
 
 </div>
